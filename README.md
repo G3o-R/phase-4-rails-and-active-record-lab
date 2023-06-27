@@ -32,3 +32,5 @@ return "Dwayne Johnson".
 **Note**: remember to run `rails db:migrate` after generating the migration
 file. You can also test your code by running `rails c` and creating a Student
 instance.
+
+https://github.com/G3o-R/phase-4-rails-and-active-record-lab
